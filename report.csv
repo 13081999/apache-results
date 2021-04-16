@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1618576622278,884,HTTP Request Add,200,OK,Soap request 1-2,text,true,,586,432,5,5,http://www.dneonline.com/calculator.asmx,880,0,532
+1618576622204,950,HTTP Request Add,200,OK,Soap request 1-1,text,true,,586,432,5,5,http://www.dneonline.com/calculator.asmx,946,0,598
+1618576622869,652,HTTP Request Add,200,OK,Soap request 1-5,text,true,,586,432,5,5,http://www.dneonline.com/calculator.asmx,652,0,323
+1618576622659,795,HTTP Request Add,200,OK,Soap request 1-4,text,true,,586,432,5,5,http://www.dneonline.com/calculator.asmx,795,0,470
+1618576622458,704,HTTP Request Add,200,OK,Soap request 1-3,text,true,,586,432,5,5,http://www.dneonline.com/calculator.asmx,700,0,352
+1618576623560,1512,HTTP Request Dvide,200,OK,Soap request 1-5,text,true,,597,442,5,5,http://www.dneonline.com/calculator.asmx,1512,0,0
+1618576623561,1514,HTTP Request Dvide,200,OK,Soap request 1-1,text,true,,597,442,5,5,http://www.dneonline.com/calculator.asmx,1514,0,0
+1618576623560,1518,HTTP Request Dvide,200,OK,Soap request 1-4,text,true,,597,442,5,5,http://www.dneonline.com/calculator.asmx,1517,0,0
+1618576623567,1518,HTTP Request Dvide,200,OK,Soap request 1-2,text,true,,597,442,5,5,http://www.dneonline.com/calculator.asmx,1517,0,0
+1618576623564,1524,HTTP Request Dvide,200,OK,Soap request 1-3,text,true,,597,442,5,5,http://www.dneonline.com/calculator.asmx,1524,0,0
+1618576625089,706,HTTP Request Multiply,200,OK,Soap request 1-2,text,true,,606,447,5,5,http://www.dneonline.com/calculator.asmx,706,0,0
+1618576625086,710,HTTP Request Multiply,200,OK,Soap request 1-4,text,true,,606,447,5,5,http://www.dneonline.com/calculator.asmx,710,0,0
+1618576625079,716,HTTP Request Multiply,200,OK,Soap request 1-5,text,true,,606,447,5,5,http://www.dneonline.com/calculator.asmx,716,0,0
+1618576625085,711,HTTP Request Multiply,200,OK,Soap request 1-1,text,true,,606,447,5,5,http://www.dneonline.com/calculator.asmx,711,0,0
+1618576625092,703,HTTP Request Multiply,200,OK,Soap request 1-3,text,true,,606,447,5,5,http://www.dneonline.com/calculator.asmx,703,0,0
+1618576625800,905,HTTP Request Subtract,200,OK,Soap request 1-5,text,true,,605,447,5,5,http://www.dneonline.com/calculator.asmx,905,0,0
+1618576625799,905,HTTP Request Subtract,200,OK,Soap request 1-2,text,true,,605,447,5,5,http://www.dneonline.com/calculator.asmx,905,0,0
+1618576625806,907,HTTP Request Subtract,200,OK,Soap request 1-3,text,true,,605,447,5,5,http://www.dneonline.com/calculator.asmx,907,0,0
+1618576625802,910,HTTP Request Subtract,200,OK,Soap request 1-1,text,true,,605,447,5,5,http://www.dneonline.com/calculator.asmx,910,0,0
+1618576625799,911,HTTP Request Subtract,200,OK,Soap request 1-4,text,true,,605,447,5,5,http://www.dneonline.com/calculator.asmx,910,0,0
