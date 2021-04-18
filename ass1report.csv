@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1618760948965,828,HTTP Request Add,200,OK,Thread Group 1-1,text,true,,586,433,5,5,http://www.dneonline.com/calculator.asmx,818,0,465
+1618760949039,764,HTTP Request Add,200,OK,Thread Group 1-2,text,true,,586,433,5,5,http://www.dneonline.com/calculator.asmx,754,0,401
+1618760949239,654,HTTP Request Add,200,OK,Thread Group 1-3,text,true,,586,433,5,5,http://www.dneonline.com/calculator.asmx,654,0,331
+1618760949449,630,HTTP Request Add,200,OK,Thread Group 1-4,text,true,,586,433,5,5,http://www.dneonline.com/calculator.asmx,630,0,310
+1618760949641,649,HTTP Request Add,200,OK,Thread Group 1-5,text,true,,586,433,5,5,http://www.dneonline.com/calculator.asmx,648,0,315
+1618760950199,523,HTTP Request Divide,200,OK,Thread Group 1-3,text,true,,597,443,5,5,http://www.dneonline.com/calculator.asmx,523,0,0
+1618760950199,527,HTTP Request Divide,200,OK,Thread Group 1-1,text,true,,597,443,5,5,http://www.dneonline.com/calculator.asmx,527,0,0
+1618760950199,527,HTTP Request Divide,200,OK,Thread Group 1-4,text,true,,597,443,5,5,http://www.dneonline.com/calculator.asmx,527,0,0
+1618760950199,541,HTTP Request Divide,200,OK,Thread Group 1-2,text,true,,597,443,5,5,http://www.dneonline.com/calculator.asmx,540,0,0
+1618760950295,448,HTTP Request Divide,200,OK,Thread Group 1-5,text,true,,597,443,5,5,http://www.dneonline.com/calculator.asmx,448,0,0
+1618760950737,628,HTTP Request Multiply,200,OK,Thread Group 1-1,text,true,,606,448,5,5,http://www.dneonline.com/calculator.asmx,628,0,0
+1618760950753,614,HTTP Request Multiply,200,OK,Thread Group 1-5,text,true,,606,448,5,5,http://www.dneonline.com/calculator.asmx,613,0,0
+1618760950748,621,HTTP Request Multiply,200,OK,Thread Group 1-2,text,true,,606,448,5,5,http://www.dneonline.com/calculator.asmx,621,0,0
+1618760950738,633,HTTP Request Multiply,200,OK,Thread Group 1-4,text,true,,606,448,5,5,http://www.dneonline.com/calculator.asmx,633,0,0
+1618760950732,633,HTTP Request Multiply,200,OK,Thread Group 1-3,text,true,,606,448,5,5,http://www.dneonline.com/calculator.asmx,633,0,0
+1618760951373,682,HTTP Request Subtract,200,OK,Thread Group 1-1,text,true,,606,448,5,5,http://www.dneonline.com/calculator.asmx,682,0,0
+1618760951383,675,HTTP Request Subtract,200,OK,Thread Group 1-4,text,true,,606,448,5,5,http://www.dneonline.com/calculator.asmx,675,0,0
+1618760951373,688,HTTP Request Subtract,200,OK,Thread Group 1-5,text,true,,606,448,5,5,http://www.dneonline.com/calculator.asmx,687,0,0
+1618760951386,679,HTTP Request Subtract,200,OK,Thread Group 1-3,text,true,,606,448,5,5,http://www.dneonline.com/calculator.asmx,679,0,0
+1618760951377,689,HTTP Request Subtract,200,OK,Thread Group 1-2,text,true,,606,448,5,5,http://www.dneonline.com/calculator.asmx,689,0,0
